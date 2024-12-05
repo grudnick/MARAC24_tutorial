@@ -1,2 +1,5 @@
 # MARAC24 tutorial
-This is a github tutorial for the MARAC 2024 conference
+This contains:
+* a file with command line basics
+* A PDF presentation
+* A Jupyter notebook example
